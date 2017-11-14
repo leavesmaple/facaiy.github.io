@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 飲冰
-email: facai.yan@gmail.com
+title: Jed Tech Blog
+email: leavesmaple@qq.com
 description: > # this means to ignore newlines until "baseurl:"
-  富貴福澤，將厚吾之生也；貧賤憂戚，庸玉女於成也。
+  我本只是打不开天穿不过地的囚徒，是游戏，让我们进入了一个个美丽新世界，我本只是时间老人掌心里渐渐消融的雪花，是游戏，让我们经历了一次次的轮回和重生。我们不能没有游戏。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://facaiy.github.io" # the base hostname & protocol for your site
+url: "https://leavesmaple.github.io" # the base hostname & protocol for your site
 twitter_username: yfcoldfire
-github_username:  facaiy
+github_username:  leavesmaple
 
 # Build settings
 markdown: kramdown
